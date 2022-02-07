@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Hugo Bacard
+- I have a PhD in Mathematics
 - 👀 I’m interested in Mathematics, Computer Science and Data Science
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on Programming, Data Science and Mathematics
